@@ -142,11 +142,7 @@ section {
   padding: 0 200px;
 }
 
-.home h1 {
-  font-size: 2.5em;
-  margin-bottom: 10px;
-}
-
 .home p {
+  text-align: center;
   font-size: 1em;
 }
